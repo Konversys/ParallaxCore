@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ParallaxCore": {
+      "commandName": "Project",
+      "commandLineArgs": "start"
+    }
+  }
+}
